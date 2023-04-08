@@ -1,0 +1,2 @@
+C:\Users\Will\Desktop\CIS 199\ProductRev-21S-Start\ProductRev\ProductRev\obj\Debug\ProductRev.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\CIS 199\ProductRev-21S-Start\ProductRev\ProductRev\obj\Debug\ProductRev.csproj.CoreCompileInputs.cache
